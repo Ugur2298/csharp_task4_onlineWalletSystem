@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#fourth_task_(online_Wallet_System)", "c#fourth_task_(online_Wallet_System).csproj", "{D18F910A-1175-4E47-9AEE-9AD732FA6823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18F910A-1175-4E47-9AEE-9AD732FA6823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18F910A-1175-4E47-9AEE-9AD732FA6823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18F910A-1175-4E47-9AEE-9AD732FA6823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18F910A-1175-4E47-9AEE-9AD732FA6823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B5E77C-C24B-48CC-A2AB-BE12E6B16C8C}
+	EndGlobalSection
+EndGlobal
